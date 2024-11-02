@@ -1,0 +1,5 @@
+
+Sitemap: https://RafaAbdul.com/sitemap.xml
+
+User-agent: *
+Disallow:
