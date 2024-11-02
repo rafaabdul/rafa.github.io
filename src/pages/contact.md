@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 ---
 
-### Contact {{ site.name }}
+## Contact {{ site.name }}
 
 - Website: <a href="https://RafaAbdul.com">https://RafaAbdul.com</a>
 - GitHub: <a href="{{site.social.github.url}}">{{site.social.github.url}}</a>
