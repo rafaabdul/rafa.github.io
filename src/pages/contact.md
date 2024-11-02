@@ -4,7 +4,8 @@ permalink: /contact/
 title: Contact
 ---
 
-<article>
-    <h2>Contact {{ site.name }}</h2>
-    <a href="https://RafaAbdul.com">Rafa Abdul</a>
-</article>
+### Contact {{ site.name }}
+
+- Website: <a href="https://RafaAbdul.com">https://RafaAbdul.com</a>
+- GitHub: <a href="{{site.social.github.url}}">{{site.social.github.url}}</a>
+- Website: <a href="{{site.social.linkedin.url}}">{{site.social.linkedin.url}}</a>
