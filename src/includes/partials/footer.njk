@@ -1,0 +1,22 @@
+<footer role="contentinfo">
+  <div id="footer--container">
+    <div id="footer--left">
+      <a href="{{ site.url }}">
+        {{ site.name }} 
+      </a>
+    </div>
+    <div id="footer--middle">
+      <a href="{{ site.social.linkedin.url }}" target="_blank" title="{{site.social.linkedin.name}}">
+        {% svgsprite %}
+        {% icon "linkedin" %}
+      </a>
+      <a href="{{ site.social.github.url }}" target="_blank" title="{{site.social.github.name}}">
+        {% svgsprite %}
+        {% icon "github" %}
+      </a>
+    </div>
+    <div id="footer--right"> 
+      &copy; {{ site.copyright }}
+    </div>
+  </div>
+</footer>

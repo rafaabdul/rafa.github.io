@@ -1,0 +1,23 @@
+/*---------------
+Main Style Sheet
+----------------*/
+
+// Utility styles
+@use "utility/variables";
+
+// Base Styles
+@use "base/reset"; 
+@use "base/normalize"; 
+@use "base/layout";
+@use "base/text";
+@use "base/links";
+@use "base/fonts";
+
+// Component Styles
+@use "components/header"; 
+@use "components/footer";
+@use "components/nav";
+@use "components/post-list";
+@use "components/post";
+@use "components/tags";
+@use "components/icons";
