@@ -2,7 +2,7 @@
 
 - [https://RafaAbdul.com](https://RafaAbdul.com)
 
-- Build status: [![Eleventy Build](https://github.com/sasidhar/rafaabdul/actions/workflows/eleventy_build.yml/badge.svg)](https://github.com/sasidhar/rafaabdul/actions/workflows/eleventy_build.yml)
+- Build status: [![Eleventy Build](https://github.com/rafaabdul/rafaabdul.github.io/actions/workflows/eleventy_build.yml/badge.svg)](https://github.com/rafaabdul/rafaabdul.github.io/actions/workflows/eleventy_build.yml)
 
 
 ## Getting Started
