@@ -1,6 +1,6 @@
 # Rafa Abdul
 
-[https://RafaAbdul.com](https://RafaAbdul.com)
+- [https://RafaAbdul.com](https://RafaAbdul.com)
 
 [![Eleventy Build](https://github.com/sasidhar/rafaabdul/actions/workflows/eleventy_build.yml/badge.svg)](https://github.com/sasidhar/rafaabdul/actions/workflows/eleventy_build.yml)
 
