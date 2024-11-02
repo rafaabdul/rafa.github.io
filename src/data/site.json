@@ -1,14 +1,19 @@
 {
-    "name": "Eleventonia",
-    "description": "A mildly opinionated Eleventy starter",
-    "url": "https://eleventonia.mattdecamp.com",
+    "name": "Rafa Abdul",
+    "description": "https://RafaAbdul.com",
+    "url": "https://RafaAbdul.com",
     "locale": "en_us",
     "lang": "en",
-    "githubUrl": "https://github.com/mattdecamp/eleventonia",
-    "authorName": "Matt DeCamp",
-    "authorHandle": "@mpdecamp",
-    "authorEmail": "matt@happybear.dev",
-    "yearCreated": 2021,
-    "copyright": "2021 to present",
-    "socialImage": "/"
+    "copyright": "2024 to present",
+    "social": {
+        "github": 
+        {
+            "name": "GitHub",
+            "url": "https://github.com/RafaAbdul/"
+        },
+        "linkedin": {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/RafaAbdul/"
+        }
+    }
 }

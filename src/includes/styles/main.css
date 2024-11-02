@@ -490,7 +490,7 @@ header {
 #header--title a {
   font-size: clamp(var(--s3), 3vw, var(--s4));
   font-weight: 200;
-  background: linear-gradient(to right, var(--primary), var(--primary) 63%, var(--secondary) 63%);
+  background: linear-gradient(to right, var(--primary), var(--primary) 45%, var(--secondary) 45%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

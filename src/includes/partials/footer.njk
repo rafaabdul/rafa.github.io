@@ -1,12 +1,16 @@
 <footer role="contentinfo">
   <div id="footer--container">
     <div id="footer--left">
-      <a href="{{ site.githubUrl }}">
-        {{ site.name | lower }} 
+      <a href="{{ site.url }}">
+        {{ site.name }} 
       </a>
     </div>
     <div id="footer--middle">
-      <a href="{{ site.githubUrl }}/tree/master/{{page.inputPath}}" title="Edit this page">
+      <a href="{{ site.social.linkedin.url }}" target="_blank" title="{{site.social.linkedin.name}}">
+        {% svgsprite %}
+        {% icon "linkedin" %}
+      </a>
+      <a href="{{ site.social.github.url }}" target="_blank" title="{{site.social.github.name}}">
         {% svgsprite %}
         {% icon "github" %}
       </a>
